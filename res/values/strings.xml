@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mHealthapp</string>
+    <string name="WeatherActivitydisplay">Weather settings</string>
+
+</resources>
