@@ -88,8 +88,7 @@ YahooWeatherExceptionListener {
 			           "wind direction: " + weatherInfo.getWindDirection() + "\n" +
 				       "wind speed: " + weatherInfo.getWindSpeed() + "\n" +
 			           "Humidity: " + weatherInfo.getAtmosphereHumidity() + "\n" +
-				       "Pressure: " + weatherInfo.getAtmospherePressure() + "\n" +
-			           "Visibility: " + weatherInfo.getAtmosphereVisibility()
+				       "Pressure: " + weatherInfo.getAtmospherePressure() + "\n"
 				);
 		 }
 		 else{
