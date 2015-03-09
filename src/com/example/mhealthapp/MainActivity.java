@@ -87,8 +87,7 @@ YahooWeatherExceptionListener {
 				       "wind chill in ºF: " + weatherInfo.getWindChill() + "\n" +
 			           "wind direction: " + weatherInfo.getWindDirection() + "\n" +
 				       "wind speed: " + weatherInfo.getWindSpeed() + "\n" +
-			           "Humidity: " + weatherInfo.getAtmosphereHumidity() + "\n" +
-				       "Pressure: " + weatherInfo.getAtmospherePressure() + "\n"
+			           "Humidity: " + weatherInfo.getAtmosphereHumidity() + "\n"
 				);
 		 }
 		 else{
